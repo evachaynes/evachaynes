@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+
+🔭 Project Directory
+- EvaPong - Pong clone created using Unity using the new Input System
+
+
+🌱 In Progress
+- Menaced - Clone of Pest Control (Sega CD) created using Unity
+- Scrum App - iOS scrum and pomodoro app
+
+
 
 <!--
 **evachaynes/evachaynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
