@@ -12,6 +12,7 @@
 
 
 ℹ️ Pronouns: She/Her
+
 📋 LinkedIn: https://www.linkedin.com/in/echaynes89/
 
 
