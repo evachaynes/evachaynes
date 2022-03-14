@@ -2,11 +2,11 @@
 
 🔭 Project Directory
 - EvaPong - Pong clone created using Unity using the new Input System
+- Solitaire - Solitaire clone created using Unity
 
 
 🌱 In Progress
 - Menaced - Clone of Pest Control (Sega CD) created using Unity
-- Scrum App - iOS scrum and pomodoro app
 
 
 
