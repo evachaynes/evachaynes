@@ -8,7 +8,11 @@
 
 🌱 In Progress
 - Menaced - Clone of Pest Control (Sega CD) created using Unity
+- pkghunter - MacOS tool for managing pkg files
 
+
+ℹ️ Pronouns: She/Her
+📋 LinkedIn: https://www.linkedin.com/in/echaynes89/
 
 
 <!--
