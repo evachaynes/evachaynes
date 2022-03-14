@@ -3,6 +3,7 @@
 🔭 Project Directory
 - EvaPong - Pong clone created using Unity using the new Input System
 - Solitaire - Solitaire clone created using Unity
+- TestVR - Basic VR skeleton set up to develop on Oculus for Unity
 
 
 🌱 In Progress
