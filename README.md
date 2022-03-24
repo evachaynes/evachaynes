@@ -14,6 +14,7 @@
 ℹ️ Pronouns: She/Her
 
 📋 LinkedIn: https://www.linkedin.com/in/echaynes89/
+
 🎮 Itch.io: https://evaplusplus.itch.io/
 
 <!--
